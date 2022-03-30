@@ -10,4 +10,5 @@ https://github.com/heyblackC/yuketangHelper
 运行环境python3
 脚本刷完后，建议登录平台手动确认一下是否有刷完所有课程。
 ## 运行效果
+![image](https://user-images.githubusercontent.com/102640365/160746117-af03669c-454e-45b7-a1a6-980677e82cf2.png)
 ![image](https://user-images.githubusercontent.com/102640365/160745863-6ed0f08b-8f1e-4635-a0b3-0caf0a461bdf.png)
