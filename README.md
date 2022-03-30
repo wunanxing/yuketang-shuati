@@ -1,6 +1,6 @@
 # yuketang-shuati
 电子科大yuketang刷作业题，改改脚本学校代码也适合其他基于yuketang的在线学习
-##首先感谢其他作者
+## 首先感谢其他作者
 https://github.com/Cat1007/yuketangHelperSCUTLite
 https://github.com/heyblackC/yuketangHelper
 
